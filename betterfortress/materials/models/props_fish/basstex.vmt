@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_fish/basstex"
-	"$bumpmap" "models/props_fish/basstex_normal"
-                "$surfaceprop" "flesh"
-	$nocull 1
-}
